@@ -68,3 +68,25 @@ O maior desafio reside em manter a autenticidade em um mundo onde a automação 
 Isso significa não apenas confiar na IA para fazer o trabalho pesado, mas também saber quando intervir, editar, e moldar as ideias geradas para que elas ressoem com nossos valores e emoções. A IA pode ser a tinta, mas o ser humano ainda precisa ser o artista. Quando conseguimos unir essas duas forças: o poder da tecnologia e a autenticidade da criação humana, produzimos algo que não é apenas inovador, mas também verdadeiramente significativo e 'natty'.
 
 Criar com IA é, portanto, um exercício de equilíbrio. É um lembrete constante de que, mesmo com toda a tecnologia à nossa disposição, a autenticidade e a originalidade vêm da forma como escolhemos usar essas ferramentas, infundindo-as com nossa paixão, nossa visão e, sobretudo, nossa humanidade.
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/445d5b33-1db7-4cb4-a54b-a11a691de257"
+    />
+    <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/LuanMercaldi">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luan-willian-ponchio-mercaldi-88080890/">LinkedIn</a>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/Strighnight)
