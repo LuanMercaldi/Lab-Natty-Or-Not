@@ -35,15 +35,17 @@ Breve descrição do seu projeto
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | Criar um Titulo para um E-Book sobre o tema: A importancia do Dente do Siso em Dragões.                                                                                                                                                                                                    |
-| Conteúdo | Crie um titulo de um ebook, sobre o tema "A importancia do Dente do Siso em Dragões", o ebook é do nicho de "Ficção Cientifica" e o subnicho é "Dentes de Dragão", o titulo deve ser épico e curto e tenha uma tematica mais Nerd, me liste 5 variações de titulos
+|  Título  | Crie um titulo de um ebook, sobre o tema "A importancia do Dente do Siso em Dragões", o ebook é do nicho de "Ficção Cientifica" e o subnicho é "Dentes de Dragão", o titulo deve ser épico e curto e tenha uma tematica mais Nerd, me liste 5 variações de titulos                                                                                                                                                                                                    |
+| Conteúdo | Faça um texto para E-Book, com foco na "importancia do Dente do Siso em Dragões", listando os principais beneficios com exemplos absurdos. {REGRAS} >Explique sempre de maneira SImples >Deixe o Texto Enxuto >Sempre Traga exemplos de contextos reais >Sempre deixe um titulo sugestivo pro tópico  |                                                                                                       
+
+
 
 ## Lexica.art:
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | Criando a capa do E-Book.                                                                                                                                                                                                    |
-| Conteúdo | No Lexica, utilizei a versão free e pesquisei por "Blue Dragon Tooth", mas o Prompt que foi usado pra gerar a imagem foi "A shrine worshipping a giant dragon skull. Shrine"|
+|  Capa  | Na Lexica, utilizei a versão free e como não tinha ideia do que estava buscando, fiz uma pesquisa bem generica por "Blue Dragon Tooth", mas o Prompt que foi usado pra gerar a imagem foi "A shrine worshipping a giant dragon skull. Shrine"                                                                                                                                                                                                    |
+| Imagens de Fundo | Seguindo a ideia acima fui selecionando imagens com a mesma tematica, mas o prompt usado pra criar as imagens foi "80s style anime  zombie dragon purple aura".|
 
 ## PowerPoint:
 
