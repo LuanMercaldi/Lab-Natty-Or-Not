@@ -16,7 +16,7 @@ Olá pessoal, Luan Mercaldi Estudante da DIO aqui! Inspirado na hype _"Natty or 
 
 ## 📒 Descrição
 
-Este e-book explora o fascinante mundo dos dragões através de um tema inusitado: A Importância do Dente do Siso em Dragões. Com uma abordagem criativa e embasada em ficção científica, a obra revela como este pequeno dente, aparentemente comum, é na verdade uma poderosa fonte de energia, proteção e conexão para essas criaturas míticas.
+Este eBook explora o fascinante mundo dos dragões através de um tema inusitado: A Importância do Dente do Siso em Dragões. Com uma abordagem criativa e embasada em ficção científica, a obra revela como este pequeno dente, aparentemente comum, é na verdade uma poderosa fonte de energia, proteção e conexão para essas criaturas míticas.
 
 Produzido com o apoio de ferramentas inovadoras, como Chat GPT para a construção do conteúdo, Lexica.art para as ilustrações inspiradoras, e PowerPoint para o design e formatação, o e-book é uma combinação perfeita de narrativa envolvente e tecnologia. Ele é destinado a leitores que apreciam histórias épicas e cheias de imaginação, onde até os menores detalhes podem esconder grandes poderes.
 
@@ -34,8 +34,8 @@ Neste projeto, levei em consideração a simplicidade na explicação dos concei
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | Crie um titulo de um ebook, sobre o tema "A importancia do Dente do Siso em Dragões", o ebook é do nicho de "Ficção Cientifica" e o subnicho é "Dentes de Dragão", o titulo deve ser épico e curto e tenha uma tematica mais Nerd, me liste 5 variações de titulos                                                                                                                                                                                                    |
-| Conteúdo | Faça um texto para E-Book, com foco na "importancia do Dente do Siso em Dragões", listando os principais beneficios com exemplos absurdos. {REGRAS} >Explique sempre de maneira SImples >Deixe o Texto Enxuto >Sempre Traga exemplos de contextos reais >Sempre deixe um titulo sugestivo pro tópico. Pedi também para dividir o conteúdo criado em pelo menos 3 Capitulos  |                                                                                                       
+|  Título  | Crie um titulo de um eBook, sobre o tema "A importancia do Dente do Siso em Dragões", o ebook é do nicho de "Ficção Cientifica" e o subnicho é "Dentes de Dragão", o titulo deve ser épico e curto e tenha uma tematica mais Nerd, me liste 5 variações de titulos                                                                                                                                                                                                    |
+| Conteúdo | Faça um texto para eBook, com foco na "importancia do Dente do Siso em Dragões", listando os principais beneficios com exemplos absurdos. {REGRAS} >Explique sempre de maneira SImples >Deixe o Texto Enxuto >Sempre Traga exemplos de contextos reais >Sempre deixe um titulo sugestivo pro tópico. Pedi também para dividir o conteúdo criado em pelo menos 3 capítulos  |                                                                                                       
 
 
 
@@ -43,7 +43,7 @@ Neste projeto, levei em consideração a simplicidade na explicação dos concei
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Capa  | Na Lexica, utilizei a versão free e como não tinha ideia do que estava buscando, fiz uma pesquisa bem generica por "Blue Dragon Tooth", mas o Prompt que foi usado pra gerar a imagem foi "A shrine worshipping a giant dragon skull. Shrine"                                                                                                                                                                                                    |
+|  Capa  | Na Lexica, utilizei a versão free e como não tinha ideia do que estava buscando, fiz uma pesquisa bem genérica por "Blue Dragon Tooth", mas o Prompt que foi usado pra gerar a imagem foi "A shrine worshipping a giant dragon skull. Shrine"                                                                                                                                                                                                    |
 | Imagens de Fundo | Seguindo a ideia acima fui selecionando imagens com a mesma tematica, mas o prompt usado pra criar as imagens foi "80s style anime  zombie dragon purple aura".|
 
 ## PowerPoint:
@@ -51,7 +51,7 @@ Neste projeto, levei em consideração a simplicidade na explicação dos concei
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Criação do E-book                                                                                                                                                                                                    |
-| Conteúdo | Utilizei o PowerPointa pra diagramar meu E-book, seguindo as dicas do Felipão, no Curso do ChatGPT for DEVs|
+| Conteúdo | Utilizei o PowerPoint pra diagramar meu eBook, seguindo as dicas do Felipão, no Curso do ChatGPT for DEVs|
 
 
 ## 🚀 Resultados
