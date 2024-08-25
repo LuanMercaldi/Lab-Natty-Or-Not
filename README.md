@@ -59,7 +59,7 @@ Neste projeto, levei em consideração a simplicidade na explicação dos concei
 [Garras e Dentes Um Portal Para a Imortalidade.pdf](https://github.com/user-attachments/files/16711776/Garras.e.Dentes.Um.Portal.Para.a.Imortalidade.pdf)
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 
 A criação de algo genuinamente único e natural, ou 'natty', usando inteligência artificial é um desafio que mistura inovação com autenticidade. Enquanto a IA, como o Chat GPT, oferece um vasto arsenal de possibilidades criativas, há uma linha tênue entre usar essas ferramentas para amplificar nossa criatividade e garantir que o resultado final ainda carregue uma essência humana, uma alma.
 
