@@ -89,4 +89,4 @@ Criar com IA é, portanto, um exercício de equilíbrio. É um lembrete constant
 
 ---
 
-⌨️ com 💜 por [Luan Mercaldi](https://github.com/Strighnight)
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
